@@ -1,2 +1,2 @@
-# fibbonacci-sequence
-fibbonacci sequence
+# fibonacci-sequence
+fibonacci sequence
